@@ -31,7 +31,7 @@
 
  - For the GUI version, keyboard module is optional for an extra feature - execute the following command:
 
-    pip intall keyboard
+    pip install keyboard
 
 
 ## Project Status
