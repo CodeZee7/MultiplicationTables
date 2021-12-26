@@ -27,7 +27,10 @@
 
 
 ## Setup
-No setup or installation is needed other than Python itself.
+ - No setup or installation is needed other than Python itself.
+
+ - For the GUI version, keyboard module is optional for an extra feature - execute the following command:
+    pip intall keyboard
 
 
 ## Project Status
