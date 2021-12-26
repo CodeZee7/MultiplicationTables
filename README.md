@@ -22,7 +22,8 @@
 
 
 ## Screenshots
-![Example screenshot](./img/screenshot.png)
+![Example screenshot](./img/s1.png)
+![Example screenshot](./img/s2.png)
 <!-- If you have screenshots you'd like to share, include them here. -->
 
 
